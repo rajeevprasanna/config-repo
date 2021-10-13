@@ -1,1 +1,4 @@
 greeting: Hello Cloud2
+
+user:
+  role: admin
